@@ -21,6 +21,10 @@ If you want to do it manually, simply run (within the application already downlo
 ### Quiz structure (Markdown)
 Although it is based on markdown for its style format, at the moment the following types of questions are supported:
 
+1. MaxSoft is a software company.
+    - (x) True
+    - ( ) False
+
 1. **Question of a selection**:
 ```text
 1. MaxSoft is a software company.
